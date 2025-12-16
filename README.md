@@ -39,9 +39,26 @@ Navigate to the download folder and install the **XAMPP** to `C:\XAMPP` so it do
 ---
 
 #### Extract osTicket zip:
-Extract the zip file to `c:\XAMPP\htdocs`.
+Extracted the zip file to `c:\XAMPP\htdocs`. Created a new folder _osTicket_ and extracted the zip there.
 
 <img width="1624" height="825" alt="Image" src="https://github.com/user-attachments/assets/b2ef7693-870e-4ffa-ac2c-584fb4878a30" />
 <img width="1624" height="801" alt="Image" src="https://github.com/user-attachments/assets/b8d8ecf2-aa9b-45f6-8503-1c1ffb571d10" />
 <img width="1624" height="994" alt="Image" src="https://github.com/user-attachments/assets/8306ee33-60ee-404e-9c97-307aa1e55793" />
+<img width="1624" height="858" alt="Image" src="https://github.com/user-attachments/assets/7628564e-0302-47f2-baad-fb5b694f924b" />
+<img width="1624" height="1005" alt="Image" src="https://github.com/user-attachments/assets/4b72d758-5ad8-4707-bd74-7fd1ed0ee65c" />
+<img width="1624" height="839" alt="Image" src="https://github.com/user-attachments/assets/5a781e90-2461-41f7-b988-686166f80521" />
+<img width="1624" height="879" alt="Image" src="https://github.com/user-attachments/assets/e6156617-830c-4aaf-bc96-0e385c27b8db" />
+<img width="1624" height="994" alt="Image" src="https://github.com/user-attachments/assets/ac0dbfff-6d02-449c-91fd-e89c7a541239" />
 
+---
+
+#### _ost-sampleconfig.php_ configuration:
+
+Navigate to _ost-sampleconfig.php_ file and renamed it and check if the writable permission is granted.
+
+<img width="1624" height="994" alt="Image" src="https://github.com/user-attachments/assets/0b1e221a-5dfa-423e-9019-cf11844b8cf3" />
+<img width="1624" height="883" alt="Image" src="https://github.com/user-attachments/assets/884b9ce3-eb48-46f3-8d5f-7f18177e1bb1" />
+<img width="1624" height="880" alt="Image" src="https://github.com/user-attachments/assets/504bf16b-cf74-4d0c-b420-af74afc329d5" />
+<img width="1624" height="994" alt="Image" src="https://github.com/user-attachments/assets/3fe313c0-f2ad-4ced-a329-c5df4db387ec" />
+
+---
