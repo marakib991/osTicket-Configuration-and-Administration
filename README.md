@@ -1,6 +1,6 @@
 # osTicket-Configuration-and-Administration
 
-## Project Overview
+## Overview
 
 This project simulates the practical steps involved in setting up and managing an osTicket helpdesk system. It covers environment preparation, installation, configuration of roles, departments, SLAs, and help topics, as well as demonstrating key skills in IT support workflows and ticket management.
 
