@@ -83,7 +83,7 @@ Run **XAMPP** and start **Apache** and **MySQL**. Then went to **phpMyAdmin** an
 ---
 
 #### Set a password for the **root** user in **phpMyAdmin**:
-Set a password which will be required during the osTicket installation. After creating the password, navigate to _config.inc.php_ file and put the newly created password in the empty field of the **server's password** section. Now, phpMyAdmin will be able to log the user in with new credentials.
+Set a password which will be required during the osTicket installation. After creating the password, navigate to _config.inc.php_ file and put the newly created password in the empty field of the **server's password** section. Now, **phpMyAdmin** will be able to log the user in with new credentials.
 
 <img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/dc3bb317-1e16-47bc-a07c-2a55aacf5d87" />
 <img width="1622" height="660" alt="Image" src="https://github.com/user-attachments/assets/267955f5-4372-41a4-b044-8bf5527cf459" />
