@@ -8,7 +8,7 @@ This project simulates the practical steps involved in setting up and managing a
 
 ### Install and configure XAMPP and osTicket zip
 
-#### Download XAMP v8.1.25:
+#### Download XAMPP v8.1.25:
 
 Downloaded XAMPP v8.1.25 because osTicket doesn't support any version newer or older than v8.1.
 
@@ -62,3 +62,30 @@ Navigate to _ost-sampleconfig.php_ file and renamed it and check if the writable
 <img width="1624" height="994" alt="Image" src="https://github.com/user-attachments/assets/3fe313c0-f2ad-4ced-a329-c5df4db387ec" />
 
 ---
+
+## Install and Configure osTicket
+### Installation Steps
+
+#### Created Database: In phpMyAdmin, create a database named **osticket**:
+Run **XAMPP** and start **Apache** and **MySQL**. Then went to **phpmyadmin** and created the **osticket** database.
+
+<img width="1624" height="994" alt="Image" src="https://github.com/user-attachments/assets/a35898a2-f448-4d08-987e-36d529fd8fcb" />
+<img width="1624" height="656" alt="Image" src="https://github.com/user-attachments/assets/66d009dc-db85-4f32-9113-a4881e8d0b2f" />
+<img width="1624" height="662" alt="Image" src="https://github.com/user-attachments/assets/bc8bf7b7-70ae-4898-9913-4be7e27349a9" />
+<img width="1037" height="530" alt="Image" src="https://github.com/user-attachments/assets/9c23fdc8-365f-43be-bfcb-b4871d7cf9ed" />
+<img width="1624" height="556" alt="Image" src="https://github.com/user-attachments/assets/9acb7d9e-ac1e-46c9-a1d8-f709782a8c51" />
+<img width="1624" height="650" alt="Image" src="https://github.com/user-attachments/assets/29466eab-7feb-4f84-abf6-38fe91621725" />
+<img width="1624" height="994" alt="Image" src="https://github.com/user-attachments/assets/5359aec6-50c4-4be9-a0ed-2ab1bff81309" />
+<img width="1398" height="493" alt="Image" src="https://github.com/user-attachments/assets/754d6695-2579-402b-8e41-c11f7b2596cb" />
+<img width="1624" height="623" alt="Image" src="https://github.com/user-attachments/assets/d75f3ae7-b73e-4811-bc80-e27e6ee01b29" />
+<img width="1624" height="994" alt="Image" src="https://github.com/user-attachments/assets/1b0d9083-22df-48bb-ab7c-e4554acc6d44" />
+
+---
+
+3. 	Permissions: Ensure the  file is writable during setup, then set it read-only after install.
+4. 	Run Installer: Browse to  and follow the setup wizard.
+
+
+
+
+
