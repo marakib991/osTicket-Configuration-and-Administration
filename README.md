@@ -140,7 +140,7 @@ Installed **osTicket** from localhost by filling the form with accurate credenti
 #### Created new **Departments**:
 Created two support departments called **Helpdesk**_(Public)_ and **Networking**_(Private)_.
 
-<img width="1620" height="708" alt="Image" src="https://github.com/user-attachments/assets/02d0de6e-81f2-426d-b994-116664b23eac" />
+<img width="1620" height="708" alt="Image" src="https://github.com/user-attachments/assets/5b82e48e-f2bb-4413-b319-0cc7ede4a86c" />
 <img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/40f5b636-0c65-4eb6-b39a-e86f1636b63c" />
 <img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/10e0227c-01e1-4b8c-81b8-6281ccf9f00e" />
 <img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/3459dc3d-2639-45db-9f4e-604b50fa42b8" />
