@@ -151,3 +151,18 @@ Created two support departments called **Helpdesk**_(Public)_ and **Networking**
 <img width="1620" height="888" alt="Image" src="https://github.com/user-attachments/assets/be239b49-1e15-46a5-8a97-8bed67139558" />
 
 ---
+
+
+#### Created new **Teams**:
+Created 2 **Teams** called **Onboarding Team** and **Incident Response Team**.
+
+<img width="1620" height="566" alt="Image" src="https://github.com/user-attachments/assets/5f836390-f009-410f-bbdf-2ff5bbe4fb23" />
+<img width="1620" height="605" alt="Image" src="https://github.com/user-attachments/assets/91525078-0f00-4953-8687-8b58580fbea0" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/9e2cc773-4053-4a9f-a346-fc7ce5e951d8" />
+<img width="1620" height="563" alt="Image" src="https://github.com/user-attachments/assets/d5031f49-0351-4c66-a734-1468972a7542" />
+<img width="1620" height="629" alt="Image" src="https://github.com/user-attachments/assets/c7fff9a4-befa-4746-9bcf-dd54af21fda7" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/136d0ebf-2d8f-4906-ae70-c6bcb8b7c61a" />
+<img width="1620" height="568" alt="Image" src="https://github.com/user-attachments/assets/efee3e90-555f-4337-94f5-c155c9e828a0" />
+<img width="1609" height="646" alt="Image" src="https://github.com/user-attachments/assets/bcb1e105-f3cc-432b-a704-3ed453334b58" />
+
+---
