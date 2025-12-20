@@ -121,7 +121,19 @@ Installed **osTicket** from localhost by filling the form with accurate credenti
 <img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/b4791483-19f4-4efd-bc18-8036e1bc8554" />
 <img width="1411" height="619" alt="Image" src="https://github.com/user-attachments/assets/c3af7f79-0114-4f15-ba3e-15c2144cebb0" />
 
+---
 
+#### Creating new **Agents** from **Admin Panel**:
 
+<img width="1620" height="652" alt="Image" src="https://github.com/user-attachments/assets/1a2da7c8-81bb-4f0f-82c5-37a7904625ff" />
+<img width="1620" height="718" alt="Image" src="https://github.com/user-attachments/assets/76062755-4cd1-4dd2-a6a2-7ed1cb513073" />
+<img width="1620" height="627" alt="Image" src="https://github.com/user-attachments/assets/362b5f18-ece1-438d-8188-a2d8b7e52139" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/17a7968d-4c87-4d9c-85f8-c2424606777e" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/747fa45c-7aba-499a-b955-f8f1c38dc9e4" />
+<img width="1620" height="752" alt="Image" src="https://github.com/user-attachments/assets/66c248e1-aa6e-4638-9d9d-b309af5311bd" />
+<img width="1620" height="951" alt="Image" src="https://github.com/user-attachments/assets/d54f924d-8708-4ed6-8d26-663590cd4d72" />
+<img width="1500" height="651" alt="Image" src="https://github.com/user-attachments/assets/6f4ac3c8-b78d-44a9-b40a-73d9313031c4" />
+<img width="1620" height="693" alt="Image" src="https://github.com/user-attachments/assets/7786a938-581e-4048-a1dc-9184836e792e" />
 
+---
 
