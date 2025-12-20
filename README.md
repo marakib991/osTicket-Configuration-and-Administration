@@ -98,8 +98,8 @@ Set a password which will be required during the osTicket installation. After cr
 
 
 
-#### Installed osTicket:
-Installed osTicket from localhost by filling the form with accurate credentials.
+#### Installed **osTicket** locally:
+Installed **osTicket** from localhost by filling the form with accurate credentials.
 
 <img width="1451" height="523" alt="Image" src="https://github.com/user-attachments/assets/36388ce2-52c8-4d34-a2ec-f00ce21268fd" />
 <img width="1215" height="484" alt="Image" src="https://github.com/user-attachments/assets/83fda572-d38a-41cb-aa7e-a8707e5e96f0" />
@@ -110,6 +110,18 @@ Installed osTicket from localhost by filling the form with accurate credentials.
 <img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/2344b055-6a4f-4414-97d5-e4188c69c9ba" />
 
 ---
+
+### osTicket Configuration
+
+#### Setting up initial system configuration:
+
+<img width="1622" height="888" alt="Image" src="https://github.com/user-attachments/assets/7f84b1db-5937-4df6-afbd-8093c9a2dbb8" />
+<img width="1378" height="753" alt="Image" src="https://github.com/user-attachments/assets/bcd3fac9-9c37-4e51-b949-f5a8411f5473" />
+<img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/1b88a9b7-3c9b-4dbc-b062-c5876d78d4dc" />
+<img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/b4791483-19f4-4efd-bc18-8036e1bc8554" />
+<img width="1411" height="619" alt="Image" src="https://github.com/user-attachments/assets/c3af7f79-0114-4f15-ba3e-15c2144cebb0" />
+
+
 
 
 
