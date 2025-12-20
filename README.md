@@ -169,8 +169,8 @@ Created 2 **Teams** called **Onboarding Team** and **Incident Response Team**.
 
 ---
 
-#### Created new SLA:
-Created 3 new **SLA** called **Critical**, **High** and **Normal**.
+#### Created new SLA Plans:
+Created 3 new **SLA Plans** called **Critical**_(Grace Period 4 hrs)_, **High**_(Grace Period 4 hrs)_ and **Normal**_(Grace Period 4 hrs)_.
 
 <img width="1620" height="745" alt="Image" src="https://github.com/user-attachments/assets/36ea000d-eb6f-409f-b29b-a231a748a55f" />
 <img width="1620" height="589" alt="Image" src="https://github.com/user-attachments/assets/768a30d4-5938-4f4d-89fb-83a50903ca63" />
@@ -185,4 +185,4 @@ Created 3 new **SLA** called **Critical**, **High** and **Normal**.
 
 ---
 
-z
+
