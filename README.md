@@ -98,9 +98,18 @@ Set a password which will be required during the osTicket installation. After cr
 
 
 
-4. 	Run Installer: Browse to  and follow the setup wizard.
+#### Installed osTicket:
+Installed osTicket from localhost by filling the form with accurate credentials.
 
+<img width="1451" height="523" alt="Image" src="https://github.com/user-attachments/assets/36388ce2-52c8-4d34-a2ec-f00ce21268fd" />
+<img width="1215" height="484" alt="Image" src="https://github.com/user-attachments/assets/83fda572-d38a-41cb-aa7e-a8707e5e96f0" />
+<img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/1e41bb1e-6939-4caf-bf6b-5ab98980e570" />
+<img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/930e9eeb-8e40-4198-b6fb-01823a73a5e7" />
+<img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/dbca803b-6e3a-4cb4-81aa-d046857aecea" />
+<img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/2ecb638a-7018-4cec-95f3-55bff9a18b0b" />
+<img width="1622" height="996" alt="Image" src="https://github.com/user-attachments/assets/2344b055-6a4f-4414-97d5-e4188c69c9ba" />
 
+---
 
 
 
