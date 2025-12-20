@@ -138,7 +138,7 @@ Installed **osTicket** from localhost by filling the form with accurate credenti
 ---
 
 #### Created new **Departments**:
-Created two support departments called **Helpdesk**_(Public)_ and **Networking**_(Private)_.
+Created 3 support departments called **Helpdesk**_(Public)_, **Networking**_(Private)_ and **System**_(Private)_.
 
 <img width="1620" height="708" alt="Image" src="https://github.com/user-attachments/assets/5b82e48e-f2bb-4413-b319-0cc7ede4a86c" />
 <img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/40f5b636-0c65-4eb6-b39a-e86f1636b63c" />
@@ -149,6 +149,8 @@ Created two support departments called **Helpdesk**_(Public)_ and **Networking**
 <img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/6a4efb7c-8410-4cae-9cee-e3a0a7c2ee7e" />
 <img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/d119d532-1eb1-4343-968b-c5467c396190" />
 <img width="1620" height="888" alt="Image" src="https://github.com/user-attachments/assets/be239b49-1e15-46a5-8a97-8bed67139558" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/27fe384b-f63c-4281-9749-bde57b6cdcbb" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/f6d2af2d-7e25-46ed-b28e-a2fb38788174" />
 
 ---
 
