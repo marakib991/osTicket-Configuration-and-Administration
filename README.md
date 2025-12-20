@@ -168,3 +168,21 @@ Created 2 **Teams** called **Onboarding Team** and **Incident Response Team**.
 <img width="1609" height="646" alt="Image" src="https://github.com/user-attachments/assets/bcb1e105-f3cc-432b-a704-3ed453334b58" />
 
 ---
+
+#### Created new SLA:
+Created 3 new **SLA** called **Critical**, **High** and **Normal**.
+
+<img width="1620" height="745" alt="Image" src="https://github.com/user-attachments/assets/36ea000d-eb6f-409f-b29b-a231a748a55f" />
+<img width="1620" height="589" alt="Image" src="https://github.com/user-attachments/assets/768a30d4-5938-4f4d-89fb-83a50903ca63" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/408fc0e8-ce5c-4f2e-ac3f-39f9b7a22122" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/a69cefe0-1f41-4fef-a27f-b56f94c44af6" />
+<img width="1620" height="671" alt="Image" src="https://github.com/user-attachments/assets/f75837b2-bc86-4300-b2dd-e8b0fb45a8cd" />
+<img width="1620" height="667" alt="Image" src="https://github.com/user-attachments/assets/46dba6ee-1554-456c-8dc6-1ee4c1212a89" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/6c35e62f-4d1a-4b63-94d5-085aea169ab5" />
+<img width="1620" height="685" alt="Image" src="https://github.com/user-attachments/assets/024d3dca-f4e8-4a75-8c12-64a5f7f03c60" />
+<img width="1620" height="994" alt="Image" src="https://github.com/user-attachments/assets/ab528c96-ae18-43be-9638-06889ac74dd5" />
+<img width="1620" height="742" alt="Image" src="https://github.com/user-attachments/assets/9a0b48a5-0182-4186-9f03-b1d9cd04151c" />
+
+---
+
+z
